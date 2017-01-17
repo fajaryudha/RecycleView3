@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.xirpl3011.recycleview3;
+package id.sch.smktelkom_mlg.learn.recycleview3;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("id.sch.smktelkom_mlg.xirpl3011.recycleview3", appContext.getPackageName());
+        assertEquals("id.sch.smktelkom_mlg.learn.recycleview3", appContext.getPackageName());
     }
 }
